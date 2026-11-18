@@ -1251,6 +1251,10 @@ body[data-halaman="login"] main.wadah {
   background: var(--krem);
 }
 
+.kaki-logo p {
+    text-align: justify;
+}
+
 /* ===== FITUR JUDUL DAN DAFTAR INFORMASI FOOTER ===== */
 .kaki-judul {
   display: flex;
